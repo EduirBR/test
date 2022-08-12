@@ -1,3 +1,5 @@
 curso git
 
 lineas que deberian estar en verde en esta version
+
+lineas agregadas para ser eliminadas
