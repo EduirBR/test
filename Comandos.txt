@@ -3,3 +3,7 @@ git init >> crea repositorio .git
 git add . >> agrega todos los archivos
 
 git add <file.name> >> agrega el archivo seleccionado
+
+git commit -m "mensaje" >>actualiza con el mensaje indicado
+
+git commit -m "mensaje Titulo" -m "mensaje descripcion" >> agrega una actualizacion con titulo y descripcion
