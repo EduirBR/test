@@ -4,6 +4,8 @@ git add . >> agrega todos los archivos
 
 git add <file.name> >> agrega el archivo seleccionado
 
+git status >> verifica la integridad de los archivos en el repositorio
+
 git commit -m "mensaje" >>actualiza con el mensaje indicado
 
 git commit -m "mensaje Titulo" -m "mensaje descripcion" >> agrega una actualizacion con titulo y descripcion
@@ -15,4 +17,7 @@ git branch -M nombre >> crea una rama con ese nombre
 git push -u origin master >> actualiza la rama maestra con lo que contiene origin
 
 git log >> historial de commits
+
+git clone repositorio.dominio.git >> clona el repositorio en la carpeta donde se estan ejecutando los comandos
+
 
