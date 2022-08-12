@@ -1,1 +1,3 @@
 curso git
+
+lineas que deberian estar en verde en esta version
