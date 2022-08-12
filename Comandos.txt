@@ -1,0 +1,5 @@
+git init >> crea repositorio .git
+
+git add . >> agrega todos los archivos
+
+git add <file.name> >> agrega el archivo seleccionado
